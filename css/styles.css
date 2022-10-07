@@ -1,0 +1,75 @@
+.king {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.gone {
+    background-color: #FFDAB9;
+    margin-bottom: auto;
+}
+
+.raja {
+    background-color: black;
+}
+
+.china {
+    margin-top: 170px;
+    color: black;
+    font-family: sans-serif;
+}
+
+.tell {
+    background-image: url(../rr.jpg );
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+    width: 1550px;
+    margin-left: 0;
+    padding-top: 20px;
+}
+
+.temp {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: x-large;
+    background-color: "#FFFOF5";
+    height: 500px;
+    width: auto;
+    margin-top: 100px;
+    margin-left: 70px;
+    text-align: center;
+}
+
+.fa-sharp {
+    margin-left: 50px;
+    padding: 20px;
+}
+
+.allign {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.heading {
+    background-color: #FFDAB9;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px;
+    margin-top: 10px;
+}
+
+.row {
+    background-color: #FFDAB9;
+}
+
+.icon:hover {
+    color: #DDA0DD;
+}
+
+.favv {
+    background-color: gray;
+    padding: 50px;
+    padding-left: 600px;
+}
+
+.iconn:hover {
+    color: white;
+}
